@@ -1,0 +1,14 @@
+form { margin-right: 10px; }
+
+.form-btn {
+  background-color: white;
+  padding: 5px;
+  margin: 5px;
+  font-size: 20px;
+}
+
+.form-btn:focus { outline: none; }
+
+.in-focus { background-color: #0000B0; }
+
+.not-focused { color: #A11 }

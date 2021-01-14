@@ -1,0 +1,8 @@
+.buttons {
+  max-width: fit-content;
+  display: flex;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.spaced { justify-content: space-between; }

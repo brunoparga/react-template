@@ -1,0 +1,23 @@
+.item {
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin: 0 5px;
+  font-weight: bold;
+}
+
+.label {
+  color: black;
+  min-width: 80px;
+  text-align: end;
+}
+
+.inactive { background-color: #D22; }
+
+.active { background-color: #A11; }
+
+.answer-btn:hover { background-color: #F33; }
+
+.answer-btn:focus {
+  outline: 1px solid #A11;
+  outline-offset: 1px;
+}

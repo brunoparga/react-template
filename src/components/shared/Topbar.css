@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #A11;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Rubik', sans-serif;
+  font-size: 40px;
+  margin: 5px 15px;
+  cursor: pointer;
+}
+
+.title:focus { outline-width: 0; }
